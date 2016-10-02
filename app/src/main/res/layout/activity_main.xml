@@ -46,7 +46,7 @@
                 android:onClick="add3PointsTB"
                 android:text="3"
                 android:textColor="#303f9f"
-                android:textSize="24dp" />
+                android:textSize="24sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -55,7 +55,7 @@
                 android:onClick="add2PointsTB"
                 android:text="2"
                 android:textColor="#303f9f"
-                android:textSize="24dp" />
+                android:textSize="24sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -63,7 +63,7 @@
                 android:onClick="add1PointTB"
                 android:text="1"
                 android:textColor="#303f9f"
-                android:textSize="24dp" />
+                android:textSize="24sp" />
 
         </LinearLayout>
 
@@ -107,7 +107,7 @@
                 android:onClick="add3PointsTR"
                 android:text="3"
                 android:textColor="#b71c1c"
-                android:textSize="24dp" />
+                android:textSize="24sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -116,7 +116,7 @@
                 android:onClick="add2PointsTR"
                 android:text="2"
                 android:textColor="#b71c1c"
-                android:textSize="24dp" />
+                android:textSize="24sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -124,7 +124,7 @@
                 android:onClick="add1PointTR"
                 android:text="1"
                 android:textColor="#b71c1c"
-                android:textSize="24dp" />
+                android:textSize="24sp" />
 
         </LinearLayout>
 
@@ -138,6 +138,6 @@
         android:layout_marginBottom="24dp"
         android:onClick="resetScore"
         android:text="Reset"
-        android:textSize="24dp" />
+        android:textSize="24sp" />
 
 </RelativeLayout>
